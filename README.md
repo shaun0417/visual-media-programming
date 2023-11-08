@@ -12,5 +12,6 @@ press space bar again - ungrip
 
 +)
 Added a wheel on the base to make it look like it's moving.
+i also liked the little swaying motion, so i gave the sway motion but only to the first arm. too many sways made the robot arm uncontrollable.
 couldn't figure out how to make ungripping motion smoothly so it just returns to 0
 Made the joints radius bigger & made all the colors grey to make the robot-like visual
